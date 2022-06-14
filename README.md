@@ -18,11 +18,11 @@ This app uses SQL and Sequelize to track inventories products, categories and ta
 
 ## Walkthrough <a id = "walkthrough-"></a>
 
-[Walkthrough]
+[Walkthrough](https://drive.google.com/file/d/10iIcxDoJDbWfrKGYySFamsPhWmPC5iB3/view)
 
 ## Repository Link<a id = "repository-link"></a>
 
-[Repository]
+[Repository](https://github.com/tddstuke/E-Commerce)
 
 ## License <a id = "license-"></a>
 
